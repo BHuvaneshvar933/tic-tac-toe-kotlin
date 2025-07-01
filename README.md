@@ -37,15 +37,27 @@ This project was based on a Java tutorial series, but I rewrote it entirely in K
 ---
 
 ## 📂 Folder Structure
-/app
-└── src
-└── main
-└── java
-└── com.yourname.tictactoe
-└── res
-└── layout
-└── drawable
-└── values
+📂 TicTacToe-Kotlin
+├── 📁 app
+│   └── 📁 src
+│       └── 📁 main
+│           ├── 📁 java
+│           │   └── com
+│           │       └── yourname
+│           │           └── tictactoe
+│           │               └── MainActivity.kt
+│           ├── 📁 res
+│           │   ├── 📁 layout
+│           │   │   └── activity_main.xml
+│           │   ├── 📁 drawable
+│           │   └── 📁 values
+│           │       └── colors.xml
+│           │       └── strings.xml
+│           │       └── styles.xml
+│           └── AndroidManifest.xml
+├── build.gradle
+└── README.md
+
 
 
 ---
