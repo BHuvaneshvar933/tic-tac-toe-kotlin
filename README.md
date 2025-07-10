@@ -32,7 +32,8 @@ This project was based on a Java tutorial series, but I rewrote it entirely in K
 
 ## 📸 Demo
 
-> [Upload a screen recording or emulator GIF here if you have one]
+### Home Screen
+<img src="app/sampledata/s.jpeg" alt="Home Screen" width="300"/>
 
 ---
 
