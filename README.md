@@ -1,11 +1,11 @@
-# 🎮 Kotlin Tic Tac Toe (Android)
+# Kotlin Tic Tac Toe (Android)
 
 A simple Tic Tac Toe game built with **Kotlin** as part of my Android learning journey.  
 This project was based on a Java tutorial series, but I rewrote it entirely in Kotlin and added my own features.
 
 ---
 
-## 📱 Features
+## Features
 
 - Two-player local Tic Tac Toe
 - Custom UI layout (colors, layout tweaks)
@@ -13,7 +13,7 @@ This project was based on a Java tutorial series, but I rewrote it entirely in K
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - Kotlin
 - Android Studio
@@ -21,7 +21,7 @@ This project was based on a Java tutorial series, but I rewrote it entirely in K
 
 ---
 
-## 🚀 Learning Highlights
+## Learning Highlights
 
 - Migrated Java logic to Kotlin independently
 - Used buttons, arrays, and conditional logic
@@ -30,29 +30,29 @@ This project was based on a Java tutorial series, but I rewrote it entirely in K
 
 ---
 
-## 📸 Demo
+## Demo
 
 ### Home Screen
 <img src="app/sampledata/s.jpeg" alt="Home Screen" width="300"/>
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 ```
-📂 TicTacToe-Kotlin  
-├── 📁 app  
-│   └── 📁 src  
-│       └── 📁 main  
-│           ├── 📁 java  
+TicTacToe-Kotlin  
+├── app  
+│   └── src  
+│       └── main  
+│           ├── java  
 │           │   └── com  
 │           │       └── yourname  
 │           │           └── tictactoe  
 │           │               └── MainActivity.kt  
-│           ├── 📁 res  
-│           │   ├── 📁 layout  
+│           ├── res  
+│           │   ├── layout  
 │           │   │   └── activity_main.xml  
-│           │   ├── 📁 drawable  
-│           │   └── 📁 values  
+│           │   ├── drawable  
+│           │   └── values  
 │           │       ├── colors.xml  
 │           │       ├── strings.xml  
 │           │       └── styles.xml  
@@ -66,14 +66,14 @@ This project was based on a Java tutorial series, but I rewrote it entirely in K
 
 ---
 
-## 🧠 What's Next
+## What's Next
 
 - Add AI mode (1-player)
 - Add animations
 
 ---
 
-## 🤝 Connect
+## Connect
 
 Feel free to check out more of my work on [GitHub](https://github.com/BHuvaneshvar933)
 
